@@ -219,7 +219,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ![image](https://github.com/Nagajyothichinta/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/blob/ebac727894d93f86bd28bf50001d7fa945cc8286/p5.png)
 
-## DUTY CYCLE AND FREQUENCY CALCULATION 
+## DUTY CYCLE AND FREQUENCY CALCULATION
 FOR PULSE AT 500
 
 ![image](https://github.com/Nagajyothichinta/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/blob/ebac727894d93f86bd28bf50001d7fa945cc8286/500.png)
